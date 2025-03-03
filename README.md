@@ -1,3 +1,2 @@
 # webdev_project1
-## ITMD Project 1
-Website using only HTML
+ITMD 361 - Project 1: Website using only HTML
